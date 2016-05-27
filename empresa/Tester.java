@@ -6,6 +6,8 @@ import empresa.rrhh.Empleado;
 
 public class Tester {
 
+	public static final VERSION = "1.0.0";
+	public static final FREDYMOREL = "Fredy Morel";
 	private Empleado vendedor;
 	private Empleado supervisor;
 
