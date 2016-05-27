@@ -5,7 +5,8 @@ import empresa.rrhh.Supervisor;
 import empresa.rrhh.Empleado;
 
 public class Tester {
-
+    
+    public static final String VERSION = "JUANROJAS"
 	private Empleado vendedor;
 	private Empleado supervisor;
 
