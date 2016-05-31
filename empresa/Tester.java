@@ -8,6 +8,7 @@ public class Tester {
 	public static final String VERSION = "1.0.0";
 	public static final String OVIDIO = "Ovidio Ovelar";
 	public static final String DEHRLIS = "Derlis Romero";
+	public static final String RAPHAPY = "Rafael Benegas";
 	public static final String FREDYMOREL = "Fredy Morel";
 	public static final String  HUGO = "Hugo Gonzalez";
 	public static final String FRANCABRAL = "Francisco Cabral";
