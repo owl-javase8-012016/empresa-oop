@@ -12,6 +12,8 @@ public class Tester {
 	public static final String FREDYMOREL = "Fredy Morel";
 	public static final String  HUGO = "Hugo Gonzalez";
 	public static final String FRANCABRAL = "Francisco Cabral";
+	public static final String DARIO = "Darío Ojeda";
+	
 	private Empleado vendedor;
 	private Empleado supervisor;
 
