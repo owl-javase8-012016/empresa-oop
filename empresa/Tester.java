@@ -10,7 +10,7 @@ public class Tester {
 	public static final String DEHRLIS = "Derlis Romero";
 	public static final String RAPHAPY = "Rafael Benegas";
 	public static final String FREDYMOREL = "Fredy Morel";
-	public static final String  HUGO = "Hugo Gonzalez";
+	public static final String HUGO = "Hugo Ismael Gonzalez ch.";
 	public static final String FRANCABRAL = "Francisco Cabral";
 	public static final String DARIO = "Darío Ojeda";
 	
